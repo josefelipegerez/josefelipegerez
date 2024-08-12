@@ -1,4 +1,4 @@
-## Olá, eu sou José Felipe👋 , Estudante de Ciência da Computação!
+# Olá, eu sou José Felipe👋 , Estudante de Ciência da Computação!
 
 <h2 align="left">About Me</h2>
 
